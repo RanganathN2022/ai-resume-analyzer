@@ -1,0 +1,44 @@
+**Job Title:** AI/ML Engineer – Generative AI
+
+**Job Description:**
+We are looking for a skilled AI/ML Engineer with experience in Machine Learning, Deep Learning, and Generative AI. The candidate will be responsible for building intelligent systems using Large Language Models (LLMs), developing scalable AI solutions, and deploying production-ready models.
+
+**Key Responsibilities:**
+
+* Develop and deploy Machine Learning and Deep Learning models
+* Build Generative AI applications such as chatbots, document Q&A systems, and text summarization tools
+* Design and implement Retrieval-Augmented Generation (RAG) pipelines
+* Perform data preprocessing, feature engineering, and model evaluation
+* Work with embeddings and vector databases for semantic search
+* Implement prompt engineering techniques to improve LLM performance
+* Integrate AI models with APIs and web applications
+* Monitor model performance and optimize for scalability and efficiency
+
+**Required Skills:**
+
+* Strong programming skills in Python
+* Experience with libraries such as NumPy, Pandas, Scikit-learn
+* Knowledge of Deep Learning frameworks like TensorFlow or PyTorch
+* Hands-on experience with LLMs and Generative AI
+* Familiarity with Hugging Face Transformers
+* Experience with LangChain or LlamaIndex
+* Understanding of vector databases like FAISS, Pinecone, or Chroma
+* Knowledge of REST APIs (FastAPI or Flask)
+
+**Preferred Skills:**
+
+* Experience with cloud platforms (AWS, Azure, or GCP)
+* Familiarity with Docker and containerization
+* Knowledge of MLOps tools like MLflow
+* Understanding of fine-tuning techniques (LoRA, PEFT)
+
+**Qualifications:**
+
+* Bachelor’s or Master’s degree in Computer Science, AI, Data Science, or related field
+
+**Experience:**
+
+* 2 to 5 years of experience in AI/ML or strong project experience in Generative AI
+
+**Keywords:**
+Python, Machine Learning, Deep Learning, Generative AI, LLM, LangChain, RAG, Transformers, FAISS, NLP, APIs, Cloud, MLOps
